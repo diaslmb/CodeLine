@@ -5,7 +5,7 @@ This document certifies that **CodeLine**, the Learning Management System (LMS) 
 
 ## Certification Details
 - **Software Title**: CodeLine Learning Management System (LMS)
-- **Copyright Holder**: Dias Ilyas]
+- **Copyright Holder**: Dias Ilyas
 - **Patent Number**: №13149
 - **Issued by**: QazPatent, Kazakhstan
 - **Certification Type**: Copyright for Software
